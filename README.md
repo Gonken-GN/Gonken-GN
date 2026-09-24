@@ -7,7 +7,6 @@
 
 💡  I am passionate about exploring new technologies and developing innovative software solutions, including quick hacks.
 🌱  I am continuously enhancing my skills in Back-End Development, Cloud Computing, Mobile Application Development, and Computer Networking, with a focus on technologies like TypeScript, JavaScript, PHP (Laravel), Golang, and NestJS.
-✉️  You can reach me via email at fadhilanugrah21@gmail.com
 My Portfolio: https://portfolio-ki22jbdrf-gonkengns-projects.vercel.app/
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
